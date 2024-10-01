@@ -8,8 +8,8 @@ Hello my name is Delali Simpson, welcome to my github repository! I'm a senior a
 
  # Competitions
 - NCAE Cybergames (more coming soon)
-- NCL (National Cyber League)
-- 2024 AI For Good Hackathon
+- NCL (National Cyber League) (more soon)
+- 2024 AI For Good Hackathon (more soon)
   
  # Experiences
 -Osprey Security Club (OSEC)
